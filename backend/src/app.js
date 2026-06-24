@@ -7,7 +7,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-    origin: 'http://localhost:5173',
+    origin: 'https://auth-frontend-2wgz.onrender.com',
     credentials: true
 }));
 app.use(express.json());
