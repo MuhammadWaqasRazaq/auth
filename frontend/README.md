@@ -1,8 +1,13 @@
-# Frontend - React Authentication App
+<img width="1895" height="989" alt="image" src="https://github.com/user-attachments/assets/fff54e0e-8ed3-44e6-b5ff-642edc06a326" /># Frontend - React Authentication App
+<img width="1896" height="981" alt="image" src="https://github.com/user-attachments/assets/51466077-ab92-4bf3-9587-c58bc0e52735" />
+<img width="1902" height="992" alt="image" src="https://github.com/user-attachments/assets/eeacaecd-0c5e-4e65-abb7-3ff3aab92913" />
+<img width="1494" height="1005" alt="image" src="https://github.com/user-attachments/assets/60d963fa-7bc1-4ee7-8872-f8ba290d32e6" />
+
 
 A modern React application built with Vite for user authentication and profile management.
 
 ## Features
+
 
 - User-friendly registration and login forms
 - Real-time form validation
